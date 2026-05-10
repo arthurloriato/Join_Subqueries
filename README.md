@@ -11,8 +11,7 @@ respondendo perguntas de negócio reais a partir dos dados.
 8 tabelas: Categoria, Cliente, Produto, Fornecedor, Funcionário,
 Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estrangeiras.
 
-## Diagrama do banco de dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+## Diagrama do banco de dados SQL Server
  ![Diagrama do Banco](diagrama.jfif)
 
 ## Consultas desenvolvidas

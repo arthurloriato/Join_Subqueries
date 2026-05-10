@@ -1,7 +1,7 @@
 # SQL Server — Análise de Dados com Banco Relacional
 
 Projeto de estudo com foco em modelagem e consultas SQL em um banco de dados 
-relacional simulando o ambiente de uma empresa.
+relacional fictício, simulando uma empresa.
 
 ## Objetivo
 Praticar modelagem relacional e escrita de queries analíticas usando SQL Server,

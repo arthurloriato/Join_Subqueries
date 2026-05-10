@@ -11,6 +11,9 @@ respondendo perguntas de negócio reais a partir dos dados.
 8 tabelas: Categoria, Cliente, Produto, Fornecedor, Funcionário,
 Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estrangeiras.
 
+## Diagrama do banco
+ ![Diagrama do Banco](diagrama.jfif)
+
 ## Consultas desenvolvidas
 - Soma de preços por pedido com filtro HAVING
 - Produto com maior volume de vendas em um período (BETWEEN + GROUP BY)

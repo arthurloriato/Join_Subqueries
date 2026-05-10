@@ -23,3 +23,5 @@ Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estr
 ## Tecnologias
 - SQL Server
 - T-SQL (JOIN, GROUP BY, HAVING, BETWEEN, subconsultas)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)

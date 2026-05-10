@@ -7,11 +7,11 @@ relacional simulando o ambiente de uma empresa.
 Praticar modelagem relacional e escrita de queries analíticas usando SQL Server,
 respondendo perguntas de negócio reais a partir dos dados.
 
-## Estrutura do banco
+## Estrutura do banco de dados
 8 tabelas: Categoria, Cliente, Produto, Fornecedor, Funcionário,
 Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estrangeiras.
 
-## Diagrama do banco
+## Diagrama do banco de dados
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
  ![Diagrama do Banco](diagrama.jfif)
 

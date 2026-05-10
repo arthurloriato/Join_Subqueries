@@ -12,6 +12,7 @@ respondendo perguntas de negócio reais a partir dos dados.
 Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estrangeiras.
 
 ## Diagrama do banco
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
  ![Diagrama do Banco](diagrama.jfif)
 
 ## Consultas desenvolvidas
@@ -23,5 +24,3 @@ Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estr
 ## Tecnologias
 - SQL Server
 - T-SQL (JOIN, GROUP BY, HAVING, BETWEEN, subconsultas)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)

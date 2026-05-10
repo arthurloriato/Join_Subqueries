@@ -20,8 +20,3 @@ Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estr
 ## Tecnologias
 - SQL Server
 - T-SQL (JOIN, GROUP BY, HAVING, BETWEEN, subconsultas)
-
-## Como executar
-1. Restaure o banco pelo arquivo `.sql` na pasta `/database`
-2. Execute os scripts em `/queries` na ordem numerada
-

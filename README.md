@@ -25,5 +25,3 @@ Pedido, Detalhe_Pedido e Endereço — relacionadas por chaves primárias e estr
 1. Restaure o banco pelo arquivo `.sql` na pasta `/database`
 2. Execute os scripts em `/queries` na ordem numerada
 
-## Used techs
-<img width="60" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
